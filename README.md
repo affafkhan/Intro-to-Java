@@ -1,6 +1,7 @@
-# FirstGitProject
+# Starting out with JAVA from control by Tonny Graddis
+in this 
 
-# Chapter 1
+## Chapter 1
 
 
 ## Chapter 2
