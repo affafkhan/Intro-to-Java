@@ -10,5 +10,5 @@
 
 In this chapter we have covered following questions:
 
-* Write a method which prints bla bl abla .
+* Write a method which
 * 
